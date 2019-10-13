@@ -28,6 +28,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rkimpins.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: N/A
 github_username:  rkimpins
+# Getting Mathjax Working
+markdown: kramdown
+
 
 # Build settings
 theme: minima
