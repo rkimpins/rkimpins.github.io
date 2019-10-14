@@ -27,5 +27,7 @@ print_hi('Tom')
 {% endhighlight %}
 
 We do links by [test][andthen]. 
+
 This stuff must be at the bottem of the page
+
 [andthen]: https://jekyllrb.com/docs/home
