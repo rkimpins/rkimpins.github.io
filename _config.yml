@@ -22,15 +22,14 @@ title: Randal occasionally knows things
 email: rkimpins@ualberta.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog. I have no idea what I'm doing, but that's what it
-  means to be an adult. Come join me for tech-tips, random bits of
-  knowledge, life tips,  what I'm learning, and much much more.
+  means to be an adult. Come join me for tech-tips, random things I'm
+  learning, life advice, and whatever else I decide to put here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rkimpins.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: N/A
+# twitter_username: N/A
 github_username:  rkimpins
 # Getting Mathjax Working
 markdown: kramdown
-
 
 # Build settings
 theme: minima
